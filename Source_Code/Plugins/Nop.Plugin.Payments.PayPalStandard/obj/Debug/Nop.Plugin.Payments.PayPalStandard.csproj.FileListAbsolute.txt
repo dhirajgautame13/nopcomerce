@@ -1,0 +1,11 @@
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\Configure.cshtml
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentInfo.cshtml
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\web.config
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll.config
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+E:\Dhiraj\Research\Nop3.9\Source_Code\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csproj.App.config
+E:\Dhiraj\Research\Nop3.9\Source_Code\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
+E:\Dhiraj\Research\Nop3.9\Source_Code\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb

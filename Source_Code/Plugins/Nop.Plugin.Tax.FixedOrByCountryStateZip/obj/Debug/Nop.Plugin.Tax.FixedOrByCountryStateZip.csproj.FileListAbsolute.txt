@@ -1,0 +1,13 @@
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_CountryStateZip.cshtml
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Description.txt
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\web.config
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_FixedRate.cshtml
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\Configure.cshtml
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\logo.jpg
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll.config
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
+E:\Dhiraj\Research\Nop3.9\Source_Code\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.App.config
+E:\Dhiraj\Research\Nop3.9\Source_Code\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csprojResolveAssemblyReference.cache
+E:\Dhiraj\Research\Nop3.9\Source_Code\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+E:\Dhiraj\Research\Nop3.9\Source_Code\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb

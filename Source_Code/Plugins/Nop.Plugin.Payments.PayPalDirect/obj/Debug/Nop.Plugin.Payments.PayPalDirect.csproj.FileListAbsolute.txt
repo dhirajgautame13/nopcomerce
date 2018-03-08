@@ -1,0 +1,11 @@
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\Configure.cshtml
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentInfo.cshtml
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\web.config
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Description.txt
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\logo.jpg
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll.config
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+E:\Dhiraj\Research\Nop3.9\Source_Code\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+E:\Dhiraj\Research\Nop3.9\Source_Code\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache
+E:\Dhiraj\Research\Nop3.9\Source_Code\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
+E:\Dhiraj\Research\Nop3.9\Source_Code\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb
